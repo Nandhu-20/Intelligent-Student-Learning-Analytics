@@ -1,0 +1,4 @@
+Actual outcome,Total_students,Correct_predictions,Incorrect_predictions,Accuracy (%)
+Dropout,284,137,147,48.24
+Enrolled,159,55,104,34.59
+Graduate,442,261,181,59.05

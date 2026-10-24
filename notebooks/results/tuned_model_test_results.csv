@@ -1,0 +1,2 @@
+Model,Best C,Test Accuracy,Test Macro Precision,Test Macro Recall,Test Macro F1
+Tuned Balanced Logistic Regression,0.01,0.511864406779661,0.4756041093282097,0.47293468447975967,0.46992735481944115
